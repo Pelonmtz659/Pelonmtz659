@@ -2,53 +2,116 @@
 
 <img src="./assets/hologram.gif" alt="Purple holographic portrait of Luis Ángel Martínez Vargas" width="100%" />
 
-<h1>Luis Ángel Martínez Vargas</h1>
+<h1>LUIS ÁNGEL MARTÍNEZ VARGAS</h1>
 
-<p><strong>Software Engineer · Full-Stack Developer · Cloud & Enterprise Systems</strong></p>
+<p>
+  <code>SOFTWARE_ENGINEER</code> ·
+  <code>FULL_STACK</code> ·
+  <code>CLOUD_SYSTEMS</code>
+</p>
 
-<a href="https://github.com/Pelonmtz659?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="mailto:luis_3041200052@utd.edu.mx"><img src="https://img.shields.io/badge/CONTACT-9333EA?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
-<a href="https://smart-device-study-guide.vercel.app/"><img src="https://img.shields.io/badge/LIVE_PROJECT-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Smart Device Study Guide" /></a>
+<p><em>I build reliable software for real operations.</em></p>
+
+<p>
+  <a href="https://github.com/Pelonmtz659?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore projects" /></a>
+  <a href="mailto:luis_3041200052@utd.edu.mx"><img src="https://img.shields.io/badge/OPEN_CHANNEL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Contact Luis Ángel" /></a>
+  <a href="https://smart-device-study-guide.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SYSTEM-9333EA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Open the live Smart Device Study Guide" /></a>
+</p>
+
+<img src="./assets/neon-divider.svg" width="100%" alt="" />
 
 </div>
 
-## `> whoami`
+## `01 // SYSTEM_PROFILE`
 
-Full-stack software engineer focused on enterprise applications, cloud-connected systems and practical tools that streamline real operations—from application architecture and APIs to databases, infrastructure and deployment.
+> I design and ship full-stack products for operational teams—from interfaces and APIs to databases, cloud infrastructure and deployment. My focus is turning complex workflows into software that is clear, resilient and useful.
 
-| Area | Details |
-| --- | --- |
-| **Current mode** | Building · Deploying · Teaching |
-| **Frontend** | React · TypeScript · Vite · Ant Design |
-| **Backend** | Node.js · AdonisJS · Express |
-| **Data** | MySQL · MariaDB |
-| **Infrastructure** | AWS · ECS · Docker · Nginx · GitHub Actions |
-| **Interests** | Architecture · Automation · Security · UX |
+```yaml
+status:    BUILDING · DEPLOYING · TEACHING
+focus:     ARCHITECTURE · AUTOMATION · SECURITY · UX
+location:  DURANGO, MÉXICO
+```
 
-## `> selected_projects`
+<img src="./assets/neon-divider.svg" width="100%" alt="" />
 
-| Project | Focus | Stack |
-| --- | --- | --- |
-| Enterprise Operations Platform | Logistics workflows, inspections, maintenance and operational reporting | React · TypeScript · AdonisJS |
-| Cloud Infrastructure & Delivery | Container deployment, CI/CD, monitoring and backups | AWS · Docker · GitHub Actions |
-| [Smart Device Study Guide](https://smart-device-study-guide.vercel.app/) | Interactive educational resources and exam preparation | Web · UX · Learning |
-| Security Research | Defensive OSINT, secure development and technical documentation | Linux · Security |
-
-<sub>Some professional projects are private; descriptions intentionally omit internal source code and credentials.</sub>
-
-## `> toolchain`
+## `02 // STACK.EXE`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,nodejs,express,mysql,aws,docker,nginx,git,github,linux&theme=dark" alt="React, TypeScript, JavaScript, Vite, Node.js, Express, MySQL, AWS, Docker, Nginx, Git, GitHub and Linux" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,nodejs,express,mysql&theme=dark" alt="React, TypeScript, JavaScript, Vite, Node.js, Express and MySQL" />
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,linux&theme=dark" alt="AWS, Docker, Nginx, Git, GitHub and Linux" />
+
+<br /><br />
+
+<code>ANT DESIGN</code> · <code>ADONISJS</code> · <code>MARIADB</code> · <code>ECS</code> · <code>CI/CD</code>
 
 </div>
+
+<img src="./assets/neon-divider.svg" width="100%" alt="" />
+
+## `03 // FEATURED_SYSTEMS`
+
+### `01` · ENTERPRISE OPERATIONS PLATFORM
+
+`PRIVATE_SYSTEM` `OPERATIONS` `FULL_STACK`
+
+Logistics workflows, inspections, maintenance and operational reporting designed around real business processes.
+
+**Core:** React · TypeScript · AdonisJS
 
 ---
 
+### `02` · CLOUD INFRASTRUCTURE & DELIVERY
+
+`INFRASTRUCTURE` `CI/CD` `CLOUD`
+
+Container deployment, continuous delivery, monitoring and backups for reliable cloud operations.
+
+**Core:** AWS · Docker · GitHub Actions
+
+---
+
+### [`03` · SMART DEVICE STUDY GUIDE ↗](https://smart-device-study-guide.vercel.app/)
+
+`LIVE_DEMO` `EDUCATION` `UX`
+
+Interactive educational resources and exam preparation delivered as a focused web experience.
+
+**Core:** Web · UX · Learning
+
+---
+
+### `04` · SECURITY RESEARCH
+
+`DEFENSIVE` `OSINT` `DOCUMENTATION`
+
+Secure-development research, defensive OSINT and practical technical documentation.
+
+**Core:** Linux · Security
+
+<sub>Private systems are described without exposing internal source code or credentials.</sub>
+
+<img src="./assets/neon-divider.svg" width="100%" alt="" />
+
+## `04 // OPEN_CHANNEL`
+
 <div align="center">
 
-**SYSTEM STATUS: BUILDING WHAT'S NEXT**
+<h3>Have a system worth building?</h3>
+
+<p>
+  <a href="mailto:luis_3041200052@utd.edu.mx"><img src="https://img.shields.io/badge/EMAIL_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Luis Ángel" /></a>
+  <a href="https://github.com/Pelonmtz659?tab=repositories"><img src="https://img.shields.io/badge/VIEW_CODE-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View GitHub repositories" /></a>
+</p>
+
+<br />
+
+<img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-A855F7?style=for-the-badge&labelColor=0D1117" alt="System status: online" />
+
+<br /><br />
 
 <sub>Durango, México · Engineering with purpose</sub>
 
