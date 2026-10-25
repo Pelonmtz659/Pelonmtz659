@@ -27,9 +27,11 @@
 > I design and ship full-stack products for operational teams—from interfaces and APIs to databases, cloud infrastructure and deployment. My focus is turning complex workflows into software that is clear, resilient and useful.
 
 ```yaml
-status:    BUILDING · DEPLOYING · TEACHING
-focus:     ARCHITECTURE · AUTOMATION · SECURITY · UX
-location:  DURANGO, MÉXICO
+status: BUILDING · DEPLOYING · TEACHING
+focus:
+  - ARCHITECTURE · AUTOMATION
+  - SECURITY · UX
+location: DURANGO, MÉXICO
 ```
 
 <img src="./assets/neon-divider.svg" width="100%" alt="" />
