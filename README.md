@@ -1,120 +1,186 @@
+
 <div align="center">
 
-<img src="./assets/hologram.gif" alt="Purple holographic portrait of Luis Ángel Martínez Vargas" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090013,45:581c87,100:a855f7&height=230&section=header&text=Luis%20Ángel%20Martínez%20Vargas&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cloud%20Computing&descAlignY=59&descSize=16" />
 
-<h1>LUIS ÁNGEL MARTÍNEZ VARGAS</h1>
+### SOFTWARE ENGINEER & FULL STACK DEVELOPER
 
-<p>
-  <code>SOFTWARE_ENGINEER</code> ·
-  <code>FULL_STACK</code> ·
-  <code>CLOUD_SYSTEMS</code>
-</p>
+**Building scalable systems, modern applications and cloud solutions.**
 
-<p><em>I build reliable software for real operations.</em></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full+Stack+Development;Enterprise+Software+Solutions;Cloud+Architecture+%26+DevOps;React+%7C+TypeScript+%7C+Node.js;Always+Learning.+Always+Building." />
 
-<p>
-  <a href="https://github.com/Pelonmtz659?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore projects" /></a>
-  <a href="mailto:luis_3041200052@utd.edu.mx"><img src="https://img.shields.io/badge/OPEN_CHANNEL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Contact Luis Ángel" /></a>
-  <a href="https://smart-device-study-guide.vercel.app/"><img src="https://img.shields.io/badge/LIVE_SYSTEM-9333EA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Open the live Smart Device Study Guide" /></a>
-</p>
-
-<img src="./assets/neon-divider.svg" width="100%" alt="" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7e22ce&style=for-the-badge" />
 
 </div>
 
-## `01 // SYSTEM_PROFILE`
+---
 
-> I design and ship full-stack products for operational teams—from interfaces and APIs to databases, cloud infrastructure and deployment. My focus is turning complex workflows into software that is clear, resilient and useful.
+## 👨‍💻 About Me
 
-```yaml
-status: BUILDING · DEPLOYING · TEACHING
-focus:
-  - ARCHITECTURE · AUTOMATION
-  - SECURITY · UX
-location: DURANGO, MÉXICO
+```typescript
+const developer = {
+  name: "Luis Ángel Martínez Vargas",
+  location: "Durango, México",
+
+  roles: [
+    "Software Developer",
+    "Full Stack Developer",
+    "University Professor"
+  ],
+
+  interests: [
+    "Enterprise Software",
+    "Cloud Computing",
+    "System Architecture",
+    "Cybersecurity",
+    "Automation"
+  ],
+
+  philosophy: "Build solutions that make a difference."
+};
 ```
 
-<img src="./assets/neon-divider.svg" width="100%" alt="" />
+I'm a software developer focused on designing and building modern, secure and scalable applications.
 
-## `02 // STACK.EXE`
+My experience includes enterprise systems, REST APIs, database management, cloud infrastructure and business process automation.
+
+I also enjoy teaching software development and exploring emerging technologies.
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,vite,nodejs,express,mysql&theme=dark" alt="React, TypeScript, JavaScript, Vite, Node.js, Express and MySQL" />
+### Frontend
 
-<br /><br />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,tailwind&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,linux&theme=dark" alt="AWS, Docker, Nginx, Git, GitHub and Linux" />
+### Backend
 
-<br /><br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,adonis,php,python&theme=dark" />
 
-<code>ANT DESIGN</code> · <code>ADONISJS</code> · <code>MARIADB</code> · <code>ECS</code> · <code>CI/CD</code>
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions,git&theme=dark" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,github,postman,firebase,figma&theme=dark" />
 
 </div>
 
-<img src="./assets/neon-divider.svg" width="100%" alt="" />
+---
 
-## `03 // FEATURED_SYSTEMS`
+## 💼 Professional Experience
 
-### `01` · ENTERPRISE OPERATIONS PLATFORM
+### 🚛 Transportes Refrigerados Rivas
+**Software Developer | 2026 – Present**
 
-`PRIVATE_SYSTEM` `OPERATIONS` `FULL_STACK`
+- Development of enterprise web applications.
+- Digitalization of transportation and maintenance processes.
+- Implementation of secure REST APIs.
+- Cloud deployment using AWS.
+- Database design and optimization.
+- Business workflow automation.
 
-Logistics workflows, inspections, maintenance and operational reporting designed around real business processes.
+**Technologies:** React, TypeScript, AdonisJS, MySQL, AWS, Docker.
 
-**Core:** React · TypeScript · AdonisJS
+### 🎓 Universidad Tecnológica de Durango
+**University Professor | 2026 – Present**
+
+- Teaching modern web and software development.
+- User Experience and Interface Design.
+- Smart Device Development.
+- Cloud Services and Application Security.
+- Technical mentoring and project evaluation.
+
+### 🏛️ ASE Durango
+**Software Developer | 2024 – 2025**
+
+- Development and maintenance of software applications.
+- Database management.
+- Optimization of internal systems.
+- Technical support for institutional platforms.
 
 ---
 
-### `02` · CLOUD INFRASTRUCTURE & DELIVERY
+## 🚀 Featured Projects
 
-`INFRASTRUCTURE` `CI/CD` `CLOUD`
+### 🚛 Enterprise Fleet Management
 
-Container deployment, continuous delivery, monitoring and backups for reliable cloud operations.
+Enterprise platform for managing vehicle inspections, maintenance workflows, operational processes and fleet information.
 
-**Core:** AWS · Docker · GitHub Actions
+**Stack:** React · TypeScript · AdonisJS · MySQL · AWS
+
+### ☁️ Cloud Infrastructure & Automation
+
+Cloud-based solutions focused on application deployment, containerization, monitoring and service availability.
+
+**Stack:** AWS ECS · Docker · Nginx · Linux · GitHub Actions
+
+### 📱 Smart Device Learning Platform
+
+Interactive educational platform for smart device development, cloud integrations, cybersecurity assessments and practical learning.
+
+**Stack:** React · TypeScript · Cloud Services
 
 ---
 
-### [`03` · SMART DEVICE STUDY GUIDE ↗](https://smart-device-study-guide.vercel.app/)
-
-`LIVE_DEMO` `EDUCATION` `UX`
-
-Interactive educational resources and exam preparation delivered as a focused web experience.
-
-**Core:** Web · UX · Learning
-
----
-
-### `04` · SECURITY RESEARCH
-
-`DEFENSIVE` `OSINT` `DOCUMENTATION`
-
-Secure-development research, defensive OSINT and practical technical documentation.
-
-**Core:** Linux · Security
-
-<sub>Private systems are described without exposing internal source code or credentials.</sub>
-
-<img src="./assets/neon-divider.svg" width="100%" alt="" />
-
-## `04 // OPEN_CHANNEL`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<h3>Have a system worth building?</h3>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C084FC&text_color=FFFFFF" />
 
-<p>
-  <a href="mailto:luis_3041200052@utd.edu.mx"><img src="https://img.shields.io/badge/EMAIL_ME-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email Luis Ángel" /></a>
-  <a href="https://github.com/Pelonmtz659?tab=repositories"><img src="https://img.shields.io/badge/VIEW_CODE-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="View GitHub repositories" /></a>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
 
-<br />
+<img width="85%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=A855F7" />
 
-<img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-A855F7?style=for-the-badge&labelColor=0D1117" alt="System status: online" />
+</div>
 
-<br /><br />
+---
 
-<sub>Durango, México · Engineering with purpose</sub>
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-581C87?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-7E22CE?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Code. Build. Innovate.
+
+*Transforming ideas into powerful digital solutions.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090013,45:581c87,100:a855f7&height=120&section=footer" />
 
 </div>
